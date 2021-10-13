@@ -130,3 +130,9 @@ Let's recap what we've learned in this tutorial:
 - Stock tables/quotes actually aren't that hard to read once you know what everything stands for!
 
 - Bulls make money, Bears make money, but Pigs get slaughtered!
+
+## Contributors 
+- Ekta Arora
+- Aaquib Ali
+- Shrejal Singh
+- Ruthvik Kanukunta
